@@ -1,2 +1,2 @@
 # c-plus-plus-primer
-c-plus-plus-primer exercise
+c-plus-plus-primer exercises
